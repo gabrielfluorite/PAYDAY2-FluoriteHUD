@@ -34,4 +34,4 @@ HUD colors are RGB customizable. Civilian marking can be enabled or disabled to 
 
 Mod only tested in **local single-player** missions and **no other mods** installed. Any other mod that changes the HUD in any way **will conflict** and cause issues with **FluoriteHUD**. Mod is **client-side only**.
 
-Made with Codex.
+*Made with Codex.*
