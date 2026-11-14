@@ -1,3 +1,10 @@
+<img width="2172" height="724" alt="Banner" src="https://github.com/user-attachments/assets/fb07b9eb-4c2e-4286-a127-e0975a2360c1" />
+
+## **// Gallery**
+
+<img width="416" height="234" alt="PAYDAY 2 Screenshot 2026 11 12 - 21 46 18 44" src="https://github.com/user-attachments/assets/80c7f2bd-3281-4b14-9584-2b4fbe9cd4de" />
+<img width="416" height="234" alt="PAYDAY 2 Screenshot 2026 11 05 - 22 14 11 42" src="https://github.com/user-attachments/assets/fb59bd35-5187-41aa-b24f-0d7a1ba5d091" />
+
 ## **// Description**
 
 **FluoriteHUD** was made with **solo stealth** in mind. Since some Payday 2 missions spawn new enemies and new civilians during the heist, this HUD is particularly useful because it allows you to **distinguish** how many enemies/civs are actually new spawns or not.
