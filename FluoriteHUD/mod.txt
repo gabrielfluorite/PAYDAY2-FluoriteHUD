@@ -1,0 +1,29 @@
+{
+  "name": "FluoriteHUD",
+  "description": "Six compact enemy/civilian counters with configurable colors and optional local civilian marking in offline stealth and casing mode.",
+  "author": "gabrielfluorite",
+  "version": "1.0.0",
+  "blt_version": 2,
+  "hooks": [
+    {
+      "hook_id": "lib/managers/hudmanagerpd2",
+      "script_path": "lua/hud.lua"
+    },
+    {
+      "hook_id": "lib/units/beings/player/states/playerstandard",
+      "script_path": "lua/civilian_marking.lua"
+    },
+    {
+      "hook_id": "lib/units/beings/player/states/playermaskoff",
+      "script_path": "lua/civilian_marking.lua"
+    },
+    {
+      "hook_id": "lib/managers/menumanager",
+      "script_path": "lua/menu.lua"
+    },
+    {
+      "hook_id": "lib/managers/localizationmanager",
+      "script_path": "lua/localization.lua"
+    }
+  ]
+}
